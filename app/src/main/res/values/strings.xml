@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WINNING_SNAKE_2311</string>
+    <string name="app_pref">app_settings</string>
+    <string name="app_pref_show">app_settings_show</string>
+</resources>
